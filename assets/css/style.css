@@ -1,0 +1,7 @@
+body{
+    color: white;
+    background-image: linear-gradient(to top, #343d3f, #495f5f, #62847b, #85a891, #b3cda5, #c7d29a, #e1d490, #ffd48b, #ffaf77, #ff8287, #ff53b6, #f94cf9);
+    font-size: 17px;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Varela Round', sans-serif;
+}
